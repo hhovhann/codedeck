@@ -1,0 +1,11 @@
+{
+  "name": "codedeck-marketplace",
+  "description": "128 development best practice cards for Claude Code — review, learn, quiz",
+  "plugins": [
+    {
+      "name": "codedeck",
+      "description": "128 best practice cards across 12 decks. Review code, draw tips, quiz yourself, add custom decks.",
+      "path": "."
+    }
+  ]
+}

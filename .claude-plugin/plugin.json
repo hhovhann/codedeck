@@ -1,0 +1,13 @@
+{
+  "name": "codedeck",
+  "version": "1.0.0",
+  "description": "128 Java/Spring Boot best practice cards across 12 decks — OWASP, SOLID, Clean Code, Effective Java, Design Patterns, and more. Review your code changes, draw daily tips, quiz yourself, or add your own team's deck.",
+  "author": {
+    "name": "Hayk Hovhannisyan",
+    "url": "https://github.com/hhovhann"
+  },
+  "homepage": "https://github.com/hhovhann/codedeck",
+  "repository": "https://github.com/hhovhann/codedeck",
+  "license": "MIT",
+  "keywords": ["best-practices", "code-review", "clean-code", "owasp", "solid", "design-patterns", "development", "commit-cards"]
+}
