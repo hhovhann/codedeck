@@ -1,0 +1,10 @@
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# Claude Code (allow settings.json to be committed)
+.claude/*
+!.claude/settings.json
